@@ -38,7 +38,7 @@ window.addEventListener("load", function () {
         shuttleBackground.style.background = "green";
         shuttleHeight.innerHTML = 0;
         rocketImg.style.position = "absolute";
-        rocketImg.style.left = "0px";
+        rocketImg.style.left = "250px";
         rocketImg.style.bottom = "0px";
     });
 
